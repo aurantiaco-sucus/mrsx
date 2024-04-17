@@ -1,1 +1,2 @@
-mod fs;
+pub mod fs;
+pub mod str;
